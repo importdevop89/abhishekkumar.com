@@ -1,0 +1,25 @@
+ .image {
+    width: 450px;
+    border-radius: 44px;
+    float: left;
+    margin-right: 30px;
+}
+
+ .logo {
+   width: 45px;
+   border-radius: 14px;
+   float: left;
+   margin-right: 15px;
+ }
+
+ .username {
+    font-weight: bold;
+    font-size: 21px;
+ }
+
+ .txx {
+    font-size: 34px;
+    background: -webkit-linear-gradient(rgb(246, 21, 21), rgb(255, 175, 2));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+ }
